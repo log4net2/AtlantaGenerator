@@ -1,0 +1,5 @@
+name: AtlantaGenerator
+version: '1.0-SNAPSHOT'
+main: me.sfclog.atlantagenerator.Main
+api-version: '1.20'
+load: startup

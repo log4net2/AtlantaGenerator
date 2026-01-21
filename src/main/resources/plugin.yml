@@ -1,0 +1,5 @@
+name: AtlantaGenerator
+version: '${project.version}'
+main: me.sfclog.atlantagenerator.Main
+api-version: '1.20'
+load: startup
